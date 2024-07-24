@@ -1,0 +1,7 @@
+## Interface: 110000
+## Title: LFRBuddy
+## Notes: Helps you figure out which LFR wings you (need|want) to do
+## Author: ellieplayswow
+## Version: v1.0.0
+
+LFRLockouts.lua
